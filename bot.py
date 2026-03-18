@@ -33,9 +33,9 @@ logger = logging.getLogger(__name__)
 
 # Конфигурация
 TOKEN = "8605216745:AAGHALFssq5GJbDO00F8aTMDaH5fGt9cjeQ"
-ADMIN_IDS = [8472956215]
+ADMIN_IDS = [8133517773, 8472956215]
 BOT_OWNER_ID = 8472956215
-ADMIN_USERNAME = "wbworkl"
+ADMIN_USERNAME = "@wbworkl"
 
 # Реквизиты для пополнения через администратора
 ADMIN_PAYMENT_DETAILS = {
